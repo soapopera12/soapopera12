@@ -1,5 +1,8 @@
 ## 👋 Hi there, I am soap opera
-I am passionate about machine learning, Cellular and Wi-Fi connection, and academic research.
+
+- Data Science
+- Cellular and Wi-Fi Networking
+- Academic research
 
 <!---
 <h3>Some tools I use</h3>
