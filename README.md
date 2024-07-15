@@ -1,6 +1,7 @@
 ## 👋 Hi there, I am soap opera
 I am passionate about machine learning, Cellular and Wi-Fi connection, and academic research.
 
+<!---
 <h3>Some tools I use</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -25,27 +26,16 @@ I am passionate about machine learning, Cellular and Wi-Fi connection, and acade
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
   </p>
+  --->
 
-<h3>Some of my beginner articles</h3>
+<h3>Notes</h3>
 <ul>
   <li><a href="https://invited-salt-d82.notion.site/"><i>A Quick Guide to understanding Machine Learning</i></a></li>
 </ul>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soapopera12&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-![Tesla's GitHub stats](https://github-readme-stats.vercel.app/api?username=soapopera12&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 <!--
-**soapopera12/soapopera12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Tesla's GitHub stats](https://github-readme-stats.vercel.app/api?username=soapopera12&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+--->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
