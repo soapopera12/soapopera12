@@ -31,11 +31,12 @@
   </p>
   --->
 
+<!--
 <h3>Notes</h3>
 <ul>
   <li><a href="https://invited-salt-d82.notion.site/"><i>A Quick Guide to understanding Machine Learning</i></a></li>
 </ul>
-
+-->
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soapopera12&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
